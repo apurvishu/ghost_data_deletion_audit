@@ -1,0 +1,2 @@
+# Optional for broader PDF encoding support; supplied PDFs also have a stdlib fallback.
+pypdf==6.21.2
